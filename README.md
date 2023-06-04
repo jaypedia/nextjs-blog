@@ -1,2 +1,3 @@
-# nextjs-blog
-Blog project using Next.js
+# Blog project with Next.js
+
+- June 4, 2023~
